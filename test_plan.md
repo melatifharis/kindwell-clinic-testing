@@ -1,8 +1,8 @@
 # Quality Assurance test plan:
 
-**Intern Name:** Melati F.H
-**Supervisor Name:** Michael S.
-**Testing duration til deadline:** 2 weeks
+Intern Name: Melati F.H
+Supervisor Name: Michael S.
+Testing duration til deadline: 2 weeks
 
 # The criteria needed for success:
 - Appropriate pricing for different patient types
