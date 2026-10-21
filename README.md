@@ -1,7 +1,7 @@
 # kindwell-clinic-testing
 Manual QA testing for Kindwell Clinic AU
 
-# 🏥 End-to-End QA Testing: Medicare Intake Form & MediRecords Integration
+# End-to-End QA Testing: Medicare Intake Form & MediRecords Integration
 
 > **Employer:** Milkyano Creative Media  
 > **Client:** Kindwell Clinic  
@@ -9,7 +9,7 @@ Manual QA testing for Kindwell Clinic AU
 > **Role:** QA Engineering Intern  
 > **Testing Type:** Manual Functional Testing, API Inspection, Cross-Browser Testing  
 
-## 🛠️ Project Ecosystem
+## Project Ecosystem
 
 `Milkyano Creative Media` (Agency)  
   └── Built & Tested for ➔ `Kindwell Clinic` (Client)  
