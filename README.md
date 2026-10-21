@@ -3,10 +3,10 @@ Manual QA testing for Kindwell Clinic AU
 
 # End-to-End QA Testing: Medicare Intake Form & MediRecords Integration
 
-> **Employer:** Milkyano Creative Media  
+> **Employer:** Milkyano Pty Ltd  
 > **Client:** Kindwell Clinic  
 > **Integrated Systems:** MediRecords EHR API, Stripe Payment Gateway  
-> **Role:** QA Engineering Intern  
+> **Role:** QA Analyst Intern  
 > **Testing Type:** Manual Functional Testing, API Inspection, Cross-Browser Testing  
 
 ## Project Ecosystem
