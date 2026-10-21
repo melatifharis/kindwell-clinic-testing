@@ -6,9 +6,11 @@
 
 # The criteria needed for success:
 - Appropriate pricing for different patient types
+- 'Smoking Cessation' patients in-person appointments only
 - Valid Australian phone number
 - Valid Australian address, complete with zip code
 - Smooth payment experience through Stripe API
+- Avoid double booking on the same date and time
 
 # Workflow:
 ```mermaid
