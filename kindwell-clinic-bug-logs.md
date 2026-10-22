@@ -87,8 +87,3 @@ The system should successfully capture and create a patient profile correspondin
 The patient gender defaults to `Male` and the name is automatically overwritten with the system default value (`Adam Adamson`).
 
 ---
-
-### 💡 Portfolio Presentation Tips:
-
-* **Add Evidence:** In a real portfolio, attach screenshots or short screen recordings (GIFs) showing the step-by-step reproduction of the bug.
-* **Highlight Impact:** Emphasize *why* the bug matters (e.g., *"Prevented incorrect patient billing charges"* or *"Ensured data integrity for medical record synchronization"*).
